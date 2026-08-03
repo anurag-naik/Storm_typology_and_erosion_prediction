@@ -58,7 +58,7 @@ The complete write-up — including detailed methodology, all figures, validatio
 
 ## Acknowledgements
 
-Wave buoy data provided by Environment Canterbury (ECan). Hindcast wave model data from regional NZ wave simulations. Shoreline data derived using the [CoastSat](https://github.com/kvos/CoastSat) framework.
+Wave buoy data provided by Environment Canterbury (ECan). Hindcast wave model data from regional NZ wave simulations. Shoreline data derived using the [CoastSat](https://github.com/UoA-eResearch/CoastSat/blob/main/README.MD) framework.
 
 ## License
 
