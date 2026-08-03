@@ -51,14 +51,6 @@ Storm wave conditions are a major driver of short-term coastal erosion, but link
 - **Visualisation** — Matplotlib, Seaborn
 - **Methods** — K-Means clustering, logistic regression, ROC/AUC evaluation
 
-## Repository Structure
-
-├── CSV FILES/ # Raw and processed datasets (buoy, hindcast, shoreline)
-├── Jupyter Notebooks/ # Analysis notebooks (storm detection, clustering, validation, modelling)
-├── Figures/ # Generated plots and visualisations
-├── Report Final 2.pdf # Full written research report
-├── EROSION POSTER.pdf # Project poster
-└── README.md
 
 ## Full Report
 
